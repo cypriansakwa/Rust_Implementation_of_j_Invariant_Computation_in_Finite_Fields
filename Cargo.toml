@@ -1,0 +1,12 @@
+[package]
+name = "Rust_Implementation_of_j_Invariant_Computation_in_Finite_Fields"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = { version = "0.4", features = ["std"] }
+num-traits = "0.2"
+num-integer = "0.1"
+num-complex = "0.4"
+
+
